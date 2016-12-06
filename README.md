@@ -1,5 +1,5 @@
-mini-nbody: A simple N-body Code
-================================
+mini-nbody: Um simples código de simulação N-body - Original de https://github.com/harrism
+
 
 A simple gravitational N-body simulation in less than 100 lines of C code, with CUDA optimizations.
 
